@@ -1,8 +1,9 @@
-### Olá, meu nome é Bruno Fioreze. Seja bem-vindo ao meu perfil do GitHub.
+### Olá, meu nome é Bruno Fioreze. 
+Seja bem-vindo ao meu perfil do GitHub.
 
 - 🔭 Atualmente eu trabalho com Python, Django e Django-Rest ...
 - 🌱 Atualmente estou lendo o livro Python Fluente.
-- 
+
 <!--
 **Bruno-Fioreze/Bruno-Fioreze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
