@@ -1,7 +1,7 @@
 ### Olá, meu nome é Bruno Fioreze. 
 Seja bem-vindo ao meu perfil do GitHub.
 
-- 🔭 Eu trabalho com Python, Django e Django-Rest ...
+- 🔭 Eu trabalho com Python, Django e Django-Rest.
 - 🌱 Atualmente estou lendo o livro Python Fluente.
 
 <!--
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->.
