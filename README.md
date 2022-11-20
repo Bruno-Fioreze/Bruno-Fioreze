@@ -2,7 +2,7 @@
 Seja bem-vindo ao meu perfil do GitHub.
 
 - 🔭 Eu trabalho com Python, Django, Django-Rest e Docker entre outras tecnologias.
-- 🌱 Atualmente estou estudando o Framework FastAPI.
+- 🌱 Atualmente estou estudando Python assíncrono.
 
 <!--
 **Bruno-Fioreze/Bruno-Fioreze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
