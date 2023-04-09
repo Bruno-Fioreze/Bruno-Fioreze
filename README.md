@@ -4,6 +4,7 @@ Seja bem-vindo ao meu perfil do GitHub.
 - 🔭 Eu trabalho com Python, Django, Django-Rest e Docker entre outras tecnologias.
 - 🌱 Atualmente estou estudando clean architecture.
 
+<br/>
   
 <div align="center">
   <a href="https://github.com/bruno-fioreze">
